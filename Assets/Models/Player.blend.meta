@@ -1,0 +1,155 @@
+fileFormatVersion: 2
+guid: 4090cfffcdc02f148b811695c7556d86
+timeCreated: 1445385408
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Ball
+    100002: Ball_cell
+    100004: Ball_cell_001
+    100006: Ball_cell_002
+    100008: Ball_cell_003
+    100010: Ball_cell_004
+    100012: Ball_cell_005
+    100014: Ball_cell_006
+    100016: Ball_cell_007
+    100018: Ball_cell_008
+    100020: Ball_cell_009
+    100022: Ball_cell_010
+    100024: Ball_cell_011
+    100026: Ball_cell_012
+    100028: Ball_cell_013
+    100030: Ball_cell_014
+    100032: //RootNode
+    400000: Ball
+    400002: Ball_cell
+    400004: Ball_cell_001
+    400006: Ball_cell_002
+    400008: Ball_cell_003
+    400010: Ball_cell_004
+    400012: Ball_cell_005
+    400014: Ball_cell_006
+    400016: Ball_cell_007
+    400018: Ball_cell_008
+    400020: Ball_cell_009
+    400022: Ball_cell_010
+    400024: Ball_cell_011
+    400026: Ball_cell_012
+    400028: Ball_cell_013
+    400030: Ball_cell_014
+    400032: //RootNode
+    2300000: Ball
+    2300002: Ball_cell
+    2300004: Ball_cell_001
+    2300006: Ball_cell_002
+    2300008: Ball_cell_003
+    2300010: Ball_cell_004
+    2300012: Ball_cell_005
+    2300014: Ball_cell_006
+    2300016: Ball_cell_007
+    2300018: Ball_cell_008
+    2300020: Ball_cell_009
+    2300022: Ball_cell_010
+    2300024: Ball_cell_011
+    2300026: Ball_cell_012
+    2300028: Ball_cell_013
+    2300030: Ball_cell_014
+    3300000: Ball
+    3300002: Ball_cell
+    3300004: Ball_cell_001
+    3300006: Ball_cell_002
+    3300008: Ball_cell_003
+    3300010: Ball_cell_004
+    3300012: Ball_cell_005
+    3300014: Ball_cell_006
+    3300016: Ball_cell_007
+    3300018: Ball_cell_008
+    3300020: Ball_cell_009
+    3300022: Ball_cell_010
+    3300024: Ball_cell_011
+    3300026: Ball_cell_012
+    3300028: Ball_cell_013
+    3300030: Ball_cell_014
+    4300000: Ball_cell_014
+    4300002: Ball_cell_013
+    4300004: Ball_cell_012
+    4300006: Ball_cell_011
+    4300008: Ball_cell_010
+    4300010: Ball_cell_009
+    4300012: Ball_cell_008
+    4300014: Ball_cell_007
+    4300016: Ball_cell_006
+    4300018: Ball_cell_005
+    4300020: Ball_cell_004
+    4300022: Ball_cell_003
+    4300024: Ball_cell_002
+    4300026: Ball_cell_001
+    4300028: Ball_cell
+    4300030: Ball
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .5
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
